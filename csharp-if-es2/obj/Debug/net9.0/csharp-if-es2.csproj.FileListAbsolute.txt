@@ -1,0 +1,14 @@
+/Users/paoloorazi/Desktop/csharp-if-es2/csharp-if-es2/bin/Debug/net9.0/csharp-if-es2
+/Users/paoloorazi/Desktop/csharp-if-es2/csharp-if-es2/bin/Debug/net9.0/csharp-if-es2.deps.json
+/Users/paoloorazi/Desktop/csharp-if-es2/csharp-if-es2/bin/Debug/net9.0/csharp-if-es2.runtimeconfig.json
+/Users/paoloorazi/Desktop/csharp-if-es2/csharp-if-es2/bin/Debug/net9.0/csharp-if-es2.dll
+/Users/paoloorazi/Desktop/csharp-if-es2/csharp-if-es2/bin/Debug/net9.0/csharp-if-es2.pdb
+/Users/paoloorazi/Desktop/csharp-if-es2/csharp-if-es2/obj/Debug/net9.0/csharp-if-es2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paoloorazi/Desktop/csharp-if-es2/csharp-if-es2/obj/Debug/net9.0/csharp-if-es2.AssemblyInfoInputs.cache
+/Users/paoloorazi/Desktop/csharp-if-es2/csharp-if-es2/obj/Debug/net9.0/csharp-if-es2.AssemblyInfo.cs
+/Users/paoloorazi/Desktop/csharp-if-es2/csharp-if-es2/obj/Debug/net9.0/csharp-if-es2.csproj.CoreCompileInputs.cache
+/Users/paoloorazi/Desktop/csharp-if-es2/csharp-if-es2/obj/Debug/net9.0/csharp-if-es2.dll
+/Users/paoloorazi/Desktop/csharp-if-es2/csharp-if-es2/obj/Debug/net9.0/refint/csharp-if-es2.dll
+/Users/paoloorazi/Desktop/csharp-if-es2/csharp-if-es2/obj/Debug/net9.0/csharp-if-es2.pdb
+/Users/paoloorazi/Desktop/csharp-if-es2/csharp-if-es2/obj/Debug/net9.0/csharp-if-es2.genruntimeconfig.cache
+/Users/paoloorazi/Desktop/csharp-if-es2/csharp-if-es2/obj/Debug/net9.0/ref/csharp-if-es2.dll
